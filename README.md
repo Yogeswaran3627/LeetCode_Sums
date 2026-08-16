@@ -67,6 +67,7 @@
 | [0326-power-of-three](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0342-power-of-four) |
 | [0477-total-hamming-distance](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0477-total-hamming-distance) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Recursion
 |  |
 | ------- |
@@ -170,6 +171,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0476-number-complement](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0477-total-hamming-distance) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Simulation
 |  |
 | ------- |
@@ -281,4 +283,8 @@
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+## Primality Test
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
