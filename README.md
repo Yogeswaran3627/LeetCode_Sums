@@ -23,6 +23,7 @@
 | [0141-linked-list-cycle](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0202-happy-number) |
 ## Linked List
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [0066-plus-one](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0202-happy-number) |
 ## Recursion
 |  |
 | ------- |
@@ -66,6 +68,7 @@
 | [0088-merge-sorted-array](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0202-happy-number) |
 ## Stack
 |  |
 | ------- |
@@ -203,6 +206,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0202-happy-number) |
 ## Counting
 |  |
 | ------- |
