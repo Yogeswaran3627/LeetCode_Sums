@@ -29,8 +29,17 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0020-valid-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
