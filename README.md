@@ -22,6 +22,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0414-third-maximum-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -186,6 +188,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Quicksort
 |  |
 | ------- |
