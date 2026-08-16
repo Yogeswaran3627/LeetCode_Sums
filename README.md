@@ -16,6 +16,7 @@
 | [0136-single-number](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | [0169-majority-element](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0219-contains-duplicate-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -224,4 +226,8 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0175-combine-two-tables) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
