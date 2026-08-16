@@ -71,6 +71,7 @@
 | [0058-length-of-last-word](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0345-reverse-vowels-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0345-reverse-vowels-of-a-string) |
 ## Stack
 |  |
 | ------- |
