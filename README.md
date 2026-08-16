@@ -12,6 +12,7 @@
 | [0075-sort-colors](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0023-merge-k-sorted-lists) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -142,6 +144,7 @@
 | [0100-same-tree](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -156,10 +159,15 @@
 | [0100-same-tree](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
