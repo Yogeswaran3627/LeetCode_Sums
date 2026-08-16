@@ -23,6 +23,7 @@
 | [0414-third-maximum-number](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0414-third-maximum-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0477-total-hamming-distance](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0477-total-hamming-distance) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [0268-missing-number](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0342-power-of-four) |
+| [0477-total-hamming-distance](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0477-total-hamming-distance) |
 ## Recursion
 |  |
 | ------- |
@@ -165,6 +167,7 @@
 | [0342-power-of-four](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0342-power-of-four) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0476-number-complement](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0476-number-complement) |
+| [0477-total-hamming-distance](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0477-total-hamming-distance) |
 ## Simulation
 |  |
 | ------- |
