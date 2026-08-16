@@ -52,12 +52,14 @@
 | [0202-happy-number](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0326-power-of-three) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0326-power-of-three) |
 ## String
 |  |
 | ------- |
