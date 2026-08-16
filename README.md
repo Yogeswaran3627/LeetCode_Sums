@@ -20,6 +20,7 @@
 | [0268-missing-number](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -181,6 +182,7 @@
 | [0268-missing-number](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0414-third-maximum-number) |
 ## Quicksort
 |  |
 | ------- |
