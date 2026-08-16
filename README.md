@@ -96,6 +96,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2000-reverse-prefix-of-word](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/2000-reverse-prefix-of-word) |
 ## Two Pointers
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2000-reverse-prefix-of-word](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/2000-reverse-prefix-of-word) |
 ## Stack
 |  |
 | ------- |
@@ -119,6 +121,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0145-binary-tree-postorder-traversal) |
+| [2000-reverse-prefix-of-word](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/2000-reverse-prefix-of-word) |
 ## Bracket Sequences
 |  |
 | ------- |
