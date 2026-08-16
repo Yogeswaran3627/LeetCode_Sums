@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0078-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0078-subsets) |
 ## Simulation
 |  |
 | ------- |
@@ -124,4 +126,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0075-sort-colors) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
