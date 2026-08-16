@@ -83,6 +83,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0190-reverse-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -121,6 +122,7 @@
 | [0067-add-binary](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0190-reverse-bits) |
 ## Simulation
 |  |
 | ------- |
