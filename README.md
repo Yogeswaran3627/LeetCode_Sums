@@ -25,6 +25,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0477-total-hamming-distance](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0485-max-consecutive-ones) |
+| [0643-maximum-average-subarray-i](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -275,6 +276,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0643-maximum-average-subarray-i) |
 ## Trie
 |  |
 | ------- |
