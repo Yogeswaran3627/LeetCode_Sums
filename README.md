@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0075-sort-colors) |
 ## Stack
 |  |
 | ------- |
@@ -110,4 +112,16 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0070-climbing-stairs) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
