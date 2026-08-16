@@ -209,4 +209,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0169-majority-element) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
