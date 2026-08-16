@@ -21,6 +21,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0414-third-maximum-number) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [0268-missing-number](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -159,6 +161,7 @@
 | [0268-missing-number](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0342-power-of-four) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -262,4 +265,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0219-contains-duplicate-ii) |
+## Trie
+|  |
+| ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
