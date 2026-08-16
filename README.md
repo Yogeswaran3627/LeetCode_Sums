@@ -70,6 +70,7 @@
 | [0342-power-of-four](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0342-power-of-four) |
 | [0477-total-hamming-distance](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0477-total-hamming-distance) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -182,11 +183,13 @@
 | [1009-complement-of-base-10-integer](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/1009-complement-of-base-10-integer) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
