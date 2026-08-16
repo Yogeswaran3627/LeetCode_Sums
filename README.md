@@ -92,6 +92,7 @@
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1446-consecutive-characters](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/1446-consecutive-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 ## Two Pointers
 |  |
 | ------- |
