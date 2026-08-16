@@ -14,6 +14,7 @@
 | [0088-merge-sorted-array](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | [0013-roman-to-integer](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -80,6 +82,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -135,6 +138,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0169-majority-element) |
 ## Quicksort
 |  |
 | ------- |
@@ -197,4 +201,12 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0141-linked-list-cycle) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
