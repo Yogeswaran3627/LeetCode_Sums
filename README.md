@@ -53,6 +53,7 @@
 | [0231-power-of-two](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -143,6 +145,7 @@
 | [0231-power-of-two](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
 | ------- |
