@@ -26,6 +26,7 @@
 | [0477-total-hamming-distance](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0643-maximum-average-subarray-i) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0898-bitwise-ors-of-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -173,6 +174,7 @@
 | [0477-total-hamming-distance](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0477-total-hamming-distance) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0868-binary-gap) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0898-bitwise-ors-of-subarrays) |
 ## Simulation
 |  |
 | ------- |
@@ -182,6 +184,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0338-counting-bits) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0898-bitwise-ors-of-subarrays) |
 ## Memoization
 |  |
 | ------- |
