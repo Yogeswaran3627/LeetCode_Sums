@@ -142,6 +142,7 @@
 | [0191-number-of-1-bits](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0338-counting-bits) |
 ## Simulation
 |  |
 | ------- |
@@ -150,6 +151,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0338-counting-bits) |
 ## Memoization
 |  |
 | ------- |
