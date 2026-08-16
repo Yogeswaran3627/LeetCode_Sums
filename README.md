@@ -24,6 +24,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0477-total-hamming-distance](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0477-total-hamming-distance) |
+| [0485-max-consecutive-ones](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
