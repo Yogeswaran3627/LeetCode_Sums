@@ -95,6 +95,7 @@
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Two Pointers
 |  |
 | ------- |
@@ -199,6 +200,7 @@
 | [0070-climbing-stairs](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0338-counting-bits) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0898-bitwise-ors-of-subarrays) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Memoization
 |  |
 | ------- |
@@ -297,6 +299,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0643-maximum-average-subarray-i) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Trie
 |  |
 | ------- |
