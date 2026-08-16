@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0027-remove-element) |
 ## Stack
 |  |
 | ------- |
