@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Math
 |  |
 | ------- |
@@ -28,4 +29,8 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0013-roman-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
