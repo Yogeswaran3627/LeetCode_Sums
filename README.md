@@ -26,6 +26,7 @@
 | [0477-total-hamming-distance](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0643-maximum-average-subarray-i) |
+| [0815-bus-routes](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0815-bus-routes) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0898-bitwise-ors-of-subarrays) |
 ## Hash Table
 |  |
@@ -43,6 +44,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0815-bus-routes](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0815-bus-routes) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Linked List
 |  |
@@ -274,6 +276,7 @@
 | [0101-symmetric-tree](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0815-bus-routes](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0815-bus-routes) |
 ## Binary Search Tree
 |  |
 | ------- |
