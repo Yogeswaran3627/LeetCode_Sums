@@ -123,6 +123,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0225-implement-stack-using-queues) |
 | [2000-reverse-prefix-of-word](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/2000-reverse-prefix-of-word) |
 ## Bracket Sequences
 |  |
@@ -326,4 +327,12 @@
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
