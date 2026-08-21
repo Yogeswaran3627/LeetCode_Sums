@@ -42,6 +42,7 @@
 | [0268-missing-number](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0387-first-unique-character-in-a-string) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0815-bus-routes](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0815-bus-routes) |
@@ -91,6 +92,7 @@
 | [0067-add-binary](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0387-first-unique-character-in-a-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1446-consecutive-characters](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/1446-consecutive-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -293,6 +295,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -340,4 +343,5 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
