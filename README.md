@@ -25,6 +25,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0477-total-hamming-distance](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0643-maximum-average-subarray-i) |
 | [0815-bus-routes](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0815-bus-routes) |
 | [0860-lemonade-change](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0860-lemonade-change) |
@@ -229,6 +230,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0561-array-partition](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0561-array-partition) |
 | [2706-buy-two-chocolates](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/2706-buy-two-chocolates) |
 ## Quicksort
 |  |
@@ -350,6 +352,11 @@
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0860-lemonade-change) |
 | [2706-buy-two-chocolates](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/2706-buy-two-chocolates) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
