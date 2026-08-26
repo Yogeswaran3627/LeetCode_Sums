@@ -29,6 +29,7 @@
 | [0815-bus-routes](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0815-bus-routes) |
 | [0860-lemonade-change](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0860-lemonade-change) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0898-bitwise-ors-of-subarrays) |
+| [2706-buy-two-chocolates](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/2706-buy-two-chocolates) |
 ## Hash Table
 |  |
 | ------- |
@@ -228,6 +229,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0442-find-all-duplicates-in-an-array) |
+| [2706-buy-two-chocolates](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/2706-buy-two-chocolates) |
 ## Quicksort
 |  |
 | ------- |
@@ -349,4 +351,5 @@
 |  |
 | ------- |
 | [0860-lemonade-change](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0860-lemonade-change) |
+| [2706-buy-two-chocolates](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/2706-buy-two-chocolates) |
 <!---LeetCode Topics End-->
