@@ -32,6 +32,7 @@
 | [0860-lemonade-change](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0860-lemonade-change) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0898-bitwise-ors-of-subarrays) |
 | [2706-buy-two-chocolates](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/2706-buy-two-chocolates) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -203,6 +204,7 @@
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Simulation
 |  |
 | ------- |
@@ -320,6 +322,7 @@
 | [0239-sliding-window-maximum](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0643-maximum-average-subarray-i) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Trie
 |  |
 | ------- |
@@ -353,6 +356,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0387-first-unique-character-in-a-string) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Greedy
 |  |
 | ------- |
@@ -371,4 +375,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0239-sliding-window-maximum) |
+## Prefix Sum
+|  |
+| ------- |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
