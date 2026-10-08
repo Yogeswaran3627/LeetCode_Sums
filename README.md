@@ -32,6 +32,7 @@
 | [0815-bus-routes](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0815-bus-routes) |
 | [0860-lemonade-change](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0860-lemonade-change) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0898-bitwise-ors-of-subarrays) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2706-buy-two-chocolates](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/2706-buy-two-chocolates) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Hash Table
@@ -184,6 +185,7 @@
 | [0268-missing-number](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -237,6 +239,7 @@
 | [0414-third-maximum-number](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0561-array-partition) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2706-buy-two-chocolates](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/2706-buy-two-chocolates) |
 ## Quicksort
 |  |
