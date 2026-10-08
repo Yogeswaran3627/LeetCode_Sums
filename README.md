@@ -34,6 +34,7 @@
 | [0898-bitwise-ors-of-subarrays](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0898-bitwise-ors-of-subarrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2706-buy-two-chocolates](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/2706-buy-two-chocolates) |
+| [2942-find-words-containing-character](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/2942-find-words-containing-character) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Hash Table
 |  |
@@ -108,6 +109,7 @@
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2000-reverse-prefix-of-word](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/2000-reverse-prefix-of-word) |
+| [2942-find-words-containing-character](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/2942-find-words-containing-character) |
 ## Two Pointers
 |  |
 | ------- |
