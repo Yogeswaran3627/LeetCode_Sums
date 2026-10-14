@@ -82,6 +82,7 @@
 | [0477-total-hamming-distance](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0477-total-hamming-distance) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -370,6 +371,7 @@
 | [0561-array-partition](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/0860-lemonade-change) |
 | [2706-buy-two-chocolates](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/2706-buy-two-chocolates) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Yogeswaran3627/LeetCode_Sums/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Counting Sort
 |  |
 | ------- |
